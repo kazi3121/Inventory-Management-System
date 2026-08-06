@@ -1,0 +1,708 @@
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\appsettings.Development.json
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\appsettings.json
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\IMS.API.staticwebassets.endpoints.json
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\IMS.API.exe
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\IMS.API.deps.json
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\IMS.API.runtimeconfig.json
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\IMS.API.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\IMS.API.pdb
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\AutoMapper.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Azure.Core.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Azure.Identity.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\BCrypt-Net-Next.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\FluentValidation.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\FluentValidation.DependencyInjectionExtensions.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Humanizer.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\MediatR.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\MediatR.Contracts.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.Bcl.Cryptography.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.Build.Framework.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.Identity.Client.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.OpenApi.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.VisualStudio.SolutionPersistence.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Mono.TextTemplating.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Newtonsoft.Json.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\System.ClientModel.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\System.CodeDom.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\System.Composition.Convention.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\System.Composition.Hosting.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\System.Composition.Runtime.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\System.Composition.TypedParts.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\System.Memory.Data.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\cs\Microsoft.Data.SqlClient.resources.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\de\Microsoft.Data.SqlClient.resources.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\es\Microsoft.Data.SqlClient.resources.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\fr\Microsoft.Data.SqlClient.resources.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\it\Microsoft.Data.SqlClient.resources.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\ja\Microsoft.Data.SqlClient.resources.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\ko\Microsoft.Data.SqlClient.resources.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\pl\Microsoft.Data.SqlClient.resources.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\ru\Microsoft.Data.SqlClient.resources.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\tr\Microsoft.Data.SqlClient.resources.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\IMS.Application.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\IMS.Domain.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\IMS.Infrastructure.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\IMS.Application.pdb
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\IMS.Infrastructure.pdb
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\IMS.Domain.pdb
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\obj\Debug\net10.0\IMS.API.csproj.AssemblyReference.cache
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\obj\Debug\net10.0\rpswa.dswa.cache.json
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\obj\Debug\net10.0\IMS.API.GeneratedMSBuildEditorConfig.editorconfig
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\obj\Debug\net10.0\IMS.API.AssemblyInfoInputs.cache
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\obj\Debug\net10.0\IMS.API.AssemblyInfo.cs
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\obj\Debug\net10.0\IMS.API.csproj.CoreCompileInputs.cache
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\obj\Debug\net10.0\IMS.API.MvcApplicationPartsAssemblyInfo.cs
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\obj\Debug\net10.0\IMS.API.MvcApplicationPartsAssemblyInfo.cache
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\obj\Debug\net10.0\IMS.API.sourcelink.json
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\obj\Debug\net10.0\rjimswa.dswa.cache.json
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\obj\Debug\net10.0\scopedcss\bundle\IMS.API.styles.css
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\obj\Debug\net10.0\staticwebassets.build.json
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\obj\Debug\net10.0\staticwebassets.build.json.cache
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\obj\Debug\net10.0\staticwebassets.development.json
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\obj\Debug\net10.0\swae.build.ex.cache
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\obj\Debug\net10.0\IMS.API.csproj.Up2Date
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\obj\Debug\net10.0\IMS.API.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\obj\Debug\net10.0\refint\IMS.API.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\obj\Debug\net10.0\IMS.API.pdb
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\obj\Debug\net10.0\IMS.API.genruntimeconfig.cache
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\obj\Debug\net10.0\ref\IMS.API.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Npgsql.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\obj\Debug\net10.0\IMS.API.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\obj\Debug\net10.0\refint\IMS.API.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\obj\Debug\net10.0\IMS.API.pdb
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\appsettings.json
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\IMS.API.staticwebassets.endpoints.json
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\IMS.API.exe
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\IMS.API.deps.json
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\IMS.API.runtimeconfig.json
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\IMS.API.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\IMS.API.pdb
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\AutoMapper.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Azure.Core.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Azure.Identity.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\BCrypt-Net-Next.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\FluentValidation.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Humanizer.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\MediatR.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\MediatR.Contracts.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.Bcl.Cryptography.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.Build.Framework.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.Identity.Client.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.VisualStudio.SolutionPersistence.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Mono.TextTemplating.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Newtonsoft.Json.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Npgsql.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\System.ClientModel.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\System.CodeDom.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\System.Composition.Convention.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\System.Composition.Hosting.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\System.Composition.Runtime.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\System.Composition.TypedParts.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\System.Memory.Data.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\IMS.Application.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\IMS.Domain.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\IMS.Infrastructure.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\IMS.Application.pdb
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\IMS.Infrastructure.pdb
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\IMS.Domain.pdb
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\obj\Debug\net10.0\IMS.API.csproj.AssemblyReference.cache
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\obj\Debug\net10.0\IMS.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\obj\Debug\net10.0\IMS.API.AssemblyInfoInputs.cache
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\obj\Debug\net10.0\IMS.API.AssemblyInfo.cs
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\obj\Debug\net10.0\IMS.API.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\obj\Debug\net10.0\IMS.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\obj\Debug\net10.0\IMS.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\obj\Debug\net10.0\IMS.API.sourcelink.json
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\obj\Debug\net10.0\scopedcss\bundle\IMS.API.styles.css
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\obj\Debug\net10.0\IMS.API.csproj.Up2Date
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\obj\Debug\net10.0\IMS.API.genruntimeconfig.cache
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.API\obj\Debug\net10.0\ref\IMS.API.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\appsettings.Development.json
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\appsettings.json
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\IMS.API.staticwebassets.endpoints.json
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\IMS.API.exe
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\IMS.API.deps.json
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\IMS.API.runtimeconfig.json
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\IMS.API.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\IMS.API.pdb
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\AutoMapper.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Azure.Core.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Azure.Identity.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\BCrypt-Net-Next.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\FluentValidation.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Humanizer.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\MediatR.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\MediatR.Contracts.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.Bcl.Cryptography.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.Build.Framework.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.Identity.Client.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.VisualStudio.SolutionPersistence.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Mono.TextTemplating.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Newtonsoft.Json.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Npgsql.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\System.ClientModel.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\System.CodeDom.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\System.Composition.Convention.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\System.Composition.Hosting.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\System.Composition.Runtime.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\System.Composition.TypedParts.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\System.Memory.Data.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\IMS.Application.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\IMS.Domain.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\IMS.Infrastructure.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\IMS.Application.pdb
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\IMS.Infrastructure.pdb
+C:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\IMS.Domain.pdb
+C:\Projects\Inventory-Management-System\src\IMS.API\obj\Debug\net10.0\IMS.API.csproj.AssemblyReference.cache
+C:\Projects\Inventory-Management-System\src\IMS.API\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Projects\Inventory-Management-System\src\IMS.API\obj\Debug\net10.0\IMS.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Inventory-Management-System\src\IMS.API\obj\Debug\net10.0\IMS.API.AssemblyInfoInputs.cache
+C:\Projects\Inventory-Management-System\src\IMS.API\obj\Debug\net10.0\IMS.API.AssemblyInfo.cs
+C:\Projects\Inventory-Management-System\src\IMS.API\obj\Debug\net10.0\IMS.API.csproj.CoreCompileInputs.cache
+C:\Projects\Inventory-Management-System\src\IMS.API\obj\Debug\net10.0\IMS.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Projects\Inventory-Management-System\src\IMS.API\obj\Debug\net10.0\IMS.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\Inventory-Management-System\src\IMS.API\obj\Debug\net10.0\IMS.API.sourcelink.json
+C:\Projects\Inventory-Management-System\src\IMS.API\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Projects\Inventory-Management-System\src\IMS.API\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Projects\Inventory-Management-System\src\IMS.API\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Projects\Inventory-Management-System\src\IMS.API\obj\Debug\net10.0\scopedcss\bundle\IMS.API.styles.css
+C:\Projects\Inventory-Management-System\src\IMS.API\obj\Debug\net10.0\staticwebassets.build.json
+C:\Projects\Inventory-Management-System\src\IMS.API\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Projects\Inventory-Management-System\src\IMS.API\obj\Debug\net10.0\staticwebassets.development.json
+C:\Projects\Inventory-Management-System\src\IMS.API\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Projects\Inventory-Management-System\src\IMS.API\obj\Debug\net10.0\swae.build.ex.cache
+C:\Projects\Inventory-Management-System\src\IMS.API\obj\Debug\net10.0\IMS.API.csproj.Up2Date
+C:\Projects\Inventory-Management-System\src\IMS.API\obj\Debug\net10.0\IMS.API.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\obj\Debug\net10.0\refint\IMS.API.dll
+C:\Projects\Inventory-Management-System\src\IMS.API\obj\Debug\net10.0\IMS.API.pdb
+C:\Projects\Inventory-Management-System\src\IMS.API\obj\Debug\net10.0\IMS.API.genruntimeconfig.cache
+C:\Projects\Inventory-Management-System\src\IMS.API\obj\Debug\net10.0\ref\IMS.API.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\appsettings.Development.json
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\appsettings.json
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\IMS.API.staticwebassets.endpoints.json
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\IMS.API.exe
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\IMS.API.deps.json
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\IMS.API.runtimeconfig.json
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\IMS.API.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\IMS.API.pdb
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\AutoMapper.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Azure.Core.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Azure.Identity.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\BCrypt-Net-Next.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\FluentValidation.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\FluentValidation.DependencyInjectionExtensions.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Humanizer.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\MediatR.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\MediatR.Contracts.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.Bcl.Cryptography.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.Build.Framework.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.Identity.Client.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.OpenApi.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Microsoft.VisualStudio.SolutionPersistence.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Mono.TextTemplating.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Newtonsoft.Json.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Npgsql.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\System.ClientModel.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\System.CodeDom.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\System.Composition.Convention.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\System.Composition.Hosting.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\System.Composition.Runtime.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\System.Composition.TypedParts.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\System.Memory.Data.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\cs\Microsoft.Data.SqlClient.resources.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\de\Microsoft.Data.SqlClient.resources.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\es\Microsoft.Data.SqlClient.resources.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\fr\Microsoft.Data.SqlClient.resources.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\it\Microsoft.Data.SqlClient.resources.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\ja\Microsoft.Data.SqlClient.resources.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\ko\Microsoft.Data.SqlClient.resources.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\pl\Microsoft.Data.SqlClient.resources.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\ru\Microsoft.Data.SqlClient.resources.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\tr\Microsoft.Data.SqlClient.resources.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\IMS.Application.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\IMS.Domain.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\IMS.Infrastructure.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\IMS.Application.pdb
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\IMS.Infrastructure.pdb
+G:\Projects\Inventory-Management-System\src\IMS.API\bin\Debug\net10.0\IMS.Domain.pdb
+G:\Projects\Inventory-Management-System\src\IMS.API\obj\Debug\net10.0\IMS.API.csproj.AssemblyReference.cache
+G:\Projects\Inventory-Management-System\src\IMS.API\obj\Debug\net10.0\rpswa.dswa.cache.json
+G:\Projects\Inventory-Management-System\src\IMS.API\obj\Debug\net10.0\IMS.API.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\Inventory-Management-System\src\IMS.API\obj\Debug\net10.0\IMS.API.AssemblyInfoInputs.cache
+G:\Projects\Inventory-Management-System\src\IMS.API\obj\Debug\net10.0\IMS.API.AssemblyInfo.cs
+G:\Projects\Inventory-Management-System\src\IMS.API\obj\Debug\net10.0\IMS.API.csproj.CoreCompileInputs.cache
+G:\Projects\Inventory-Management-System\src\IMS.API\obj\Debug\net10.0\IMS.API.MvcApplicationPartsAssemblyInfo.cs
+G:\Projects\Inventory-Management-System\src\IMS.API\obj\Debug\net10.0\IMS.API.MvcApplicationPartsAssemblyInfo.cache
+G:\Projects\Inventory-Management-System\src\IMS.API\obj\Debug\net10.0\IMS.API.sourcelink.json
+G:\Projects\Inventory-Management-System\src\IMS.API\obj\Debug\net10.0\rjimswa.dswa.cache.json
+G:\Projects\Inventory-Management-System\src\IMS.API\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+G:\Projects\Inventory-Management-System\src\IMS.API\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+G:\Projects\Inventory-Management-System\src\IMS.API\obj\Debug\net10.0\scopedcss\bundle\IMS.API.styles.css
+G:\Projects\Inventory-Management-System\src\IMS.API\obj\Debug\net10.0\staticwebassets.build.json
+G:\Projects\Inventory-Management-System\src\IMS.API\obj\Debug\net10.0\staticwebassets.build.json.cache
+G:\Projects\Inventory-Management-System\src\IMS.API\obj\Debug\net10.0\staticwebassets.development.json
+G:\Projects\Inventory-Management-System\src\IMS.API\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+G:\Projects\Inventory-Management-System\src\IMS.API\obj\Debug\net10.0\swae.build.ex.cache
+G:\Projects\Inventory-Management-System\src\IMS.API\obj\Debug\net10.0\IMS.API.csproj.Up2Date
+G:\Projects\Inventory-Management-System\src\IMS.API\obj\Debug\net10.0\IMS.API.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\obj\Debug\net10.0\refint\IMS.API.dll
+G:\Projects\Inventory-Management-System\src\IMS.API\obj\Debug\net10.0\IMS.API.pdb
+G:\Projects\Inventory-Management-System\src\IMS.API\obj\Debug\net10.0\IMS.API.genruntimeconfig.cache
+G:\Projects\Inventory-Management-System\src\IMS.API\obj\Debug\net10.0\ref\IMS.API.dll

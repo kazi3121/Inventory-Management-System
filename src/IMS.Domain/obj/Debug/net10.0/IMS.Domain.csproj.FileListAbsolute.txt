@@ -1,0 +1,47 @@
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.Domain\bin\Debug\net10.0\IMS.Domain.deps.json
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.Domain\bin\Debug\net10.0\IMS.Domain.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.Domain\bin\Debug\net10.0\IMS.Domain.pdb
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.Domain\obj\Debug\net10.0\IMS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.Domain\obj\Debug\net10.0\IMS.Domain.AssemblyInfoInputs.cache
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.Domain\obj\Debug\net10.0\IMS.Domain.AssemblyInfo.cs
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.Domain\obj\Debug\net10.0\IMS.Domain.csproj.CoreCompileInputs.cache
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.Domain\obj\Debug\net10.0\IMS.Domain.sourcelink.json
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.Domain\obj\Debug\net10.0\IMS.Domain.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.Domain\obj\Debug\net10.0\refint\IMS.Domain.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.Domain\obj\Debug\net10.0\IMS.Domain.pdb
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.Domain\obj\Debug\net10.0\ref\IMS.Domain.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.Domain\bin\Debug\net10.0\IMS.Domain.deps.json
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.Domain\bin\Debug\net10.0\IMS.Domain.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.Domain\bin\Debug\net10.0\IMS.Domain.pdb
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.Domain\obj\Debug\net10.0\IMS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.Domain\obj\Debug\net10.0\IMS.Domain.AssemblyInfoInputs.cache
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.Domain\obj\Debug\net10.0\IMS.Domain.AssemblyInfo.cs
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.Domain\obj\Debug\net10.0\IMS.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.Domain\obj\Debug\net10.0\IMS.Domain.sourcelink.json
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.Domain\obj\Debug\net10.0\IMS.Domain.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.Domain\obj\Debug\net10.0\refint\IMS.Domain.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.Domain\obj\Debug\net10.0\IMS.Domain.pdb
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.Domain\obj\Debug\net10.0\ref\IMS.Domain.dll
+C:\Projects\Inventory-Management-System\src\IMS.Domain\bin\Debug\net10.0\IMS.Domain.deps.json
+C:\Projects\Inventory-Management-System\src\IMS.Domain\bin\Debug\net10.0\IMS.Domain.dll
+C:\Projects\Inventory-Management-System\src\IMS.Domain\bin\Debug\net10.0\IMS.Domain.pdb
+C:\Projects\Inventory-Management-System\src\IMS.Domain\obj\Debug\net10.0\IMS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Inventory-Management-System\src\IMS.Domain\obj\Debug\net10.0\IMS.Domain.AssemblyInfoInputs.cache
+C:\Projects\Inventory-Management-System\src\IMS.Domain\obj\Debug\net10.0\IMS.Domain.AssemblyInfo.cs
+C:\Projects\Inventory-Management-System\src\IMS.Domain\obj\Debug\net10.0\IMS.Domain.csproj.CoreCompileInputs.cache
+C:\Projects\Inventory-Management-System\src\IMS.Domain\obj\Debug\net10.0\IMS.Domain.sourcelink.json
+C:\Projects\Inventory-Management-System\src\IMS.Domain\obj\Debug\net10.0\IMS.Domain.dll
+C:\Projects\Inventory-Management-System\src\IMS.Domain\obj\Debug\net10.0\refint\IMS.Domain.dll
+C:\Projects\Inventory-Management-System\src\IMS.Domain\obj\Debug\net10.0\IMS.Domain.pdb
+C:\Projects\Inventory-Management-System\src\IMS.Domain\obj\Debug\net10.0\ref\IMS.Domain.dll
+G:\Projects\Inventory-Management-System\src\IMS.Domain\bin\Debug\net10.0\IMS.Domain.deps.json
+G:\Projects\Inventory-Management-System\src\IMS.Domain\bin\Debug\net10.0\IMS.Domain.dll
+G:\Projects\Inventory-Management-System\src\IMS.Domain\bin\Debug\net10.0\IMS.Domain.pdb
+G:\Projects\Inventory-Management-System\src\IMS.Domain\obj\Debug\net10.0\IMS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\Inventory-Management-System\src\IMS.Domain\obj\Debug\net10.0\IMS.Domain.AssemblyInfoInputs.cache
+G:\Projects\Inventory-Management-System\src\IMS.Domain\obj\Debug\net10.0\IMS.Domain.AssemblyInfo.cs
+G:\Projects\Inventory-Management-System\src\IMS.Domain\obj\Debug\net10.0\IMS.Domain.csproj.CoreCompileInputs.cache
+G:\Projects\Inventory-Management-System\src\IMS.Domain\obj\Debug\net10.0\IMS.Domain.dll
+G:\Projects\Inventory-Management-System\src\IMS.Domain\obj\Debug\net10.0\refint\IMS.Domain.dll
+G:\Projects\Inventory-Management-System\src\IMS.Domain\obj\Debug\net10.0\IMS.Domain.pdb
+G:\Projects\Inventory-Management-System\src\IMS.Domain\obj\Debug\net10.0\ref\IMS.Domain.dll

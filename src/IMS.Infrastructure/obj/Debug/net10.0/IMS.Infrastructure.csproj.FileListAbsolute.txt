@@ -1,0 +1,80 @@
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.Infrastructure\bin\Debug\net10.0\IMS.Infrastructure.deps.json
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.Infrastructure\bin\Debug\net10.0\IMS.Infrastructure.runtimeconfig.json
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.Infrastructure\bin\Debug\net10.0\IMS.Infrastructure.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.Infrastructure\bin\Debug\net10.0\IMS.Infrastructure.pdb
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.Infrastructure\bin\Debug\net10.0\IMS.Application.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.Infrastructure\bin\Debug\net10.0\IMS.Domain.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.Infrastructure\bin\Debug\net10.0\IMS.Application.pdb
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.Infrastructure\bin\Debug\net10.0\IMS.Domain.pdb
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.Infrastructure\obj\Debug\net10.0\IMS.Infrastructure.csproj.AssemblyReference.cache
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.Infrastructure\obj\Debug\net10.0\IMS.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.Infrastructure\obj\Debug\net10.0\IMS.Infrastructure.AssemblyInfoInputs.cache
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.Infrastructure\obj\Debug\net10.0\IMS.Infrastructure.AssemblyInfo.cs
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.Infrastructure\obj\Debug\net10.0\IMS.Infrastructure.csproj.CoreCompileInputs.cache
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.Infrastructure\obj\Debug\net10.0\IMS.Infrastructure.sourcelink.json
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.Infrastructure\obj\Debug\net10.0\IMS.Infr.A6A27735.Up2Date
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.Infrastructure\obj\Debug\net10.0\IMS.Infrastructure.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.Infrastructure\obj\Debug\net10.0\refint\IMS.Infrastructure.dll
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.Infrastructure\obj\Debug\net10.0\IMS.Infrastructure.pdb
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.Infrastructure\obj\Debug\net10.0\IMS.Infrastructure.genruntimeconfig.cache
+G:\Insha Allah\codecamp\Inventory-Management-System\src\IMS.Infrastructure\obj\Debug\net10.0\ref\IMS.Infrastructure.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.Infrastructure\obj\Debug\net10.0\IMS.Infrastructure.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.Infrastructure\obj\Debug\net10.0\refint\IMS.Infrastructure.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.Infrastructure\obj\Debug\net10.0\IMS.Infrastructure.pdb
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.Infrastructure\bin\Debug\net10.0\IMS.Infrastructure.deps.json
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.Infrastructure\bin\Debug\net10.0\IMS.Infrastructure.runtimeconfig.json
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.Infrastructure\bin\Debug\net10.0\IMS.Infrastructure.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.Infrastructure\bin\Debug\net10.0\IMS.Infrastructure.pdb
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.Infrastructure\bin\Debug\net10.0\IMS.Application.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.Infrastructure\bin\Debug\net10.0\IMS.Domain.dll
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.Infrastructure\bin\Debug\net10.0\IMS.Application.pdb
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.Infrastructure\bin\Debug\net10.0\IMS.Domain.pdb
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.Infrastructure\obj\Debug\net10.0\IMS.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.Infrastructure\obj\Debug\net10.0\IMS.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.Infrastructure\obj\Debug\net10.0\IMS.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.Infrastructure\obj\Debug\net10.0\IMS.Infrastructure.AssemblyInfo.cs
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.Infrastructure\obj\Debug\net10.0\IMS.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.Infrastructure\obj\Debug\net10.0\IMS.Infrastructure.sourcelink.json
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.Infrastructure\obj\Debug\net10.0\IMS.Infr.A6A27735.Up2Date
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.Infrastructure\obj\Debug\net10.0\IMS.Infrastructure.genruntimeconfig.cache
+C:\Users\ThinkPad\Documents\Internship\Inventory-Management-System\src\IMS.Infrastructure\obj\Debug\net10.0\ref\IMS.Infrastructure.dll
+C:\Projects\Inventory-Management-System\src\IMS.Infrastructure\bin\Debug\net10.0\IMS.Infrastructure.deps.json
+C:\Projects\Inventory-Management-System\src\IMS.Infrastructure\bin\Debug\net10.0\IMS.Infrastructure.runtimeconfig.json
+C:\Projects\Inventory-Management-System\src\IMS.Infrastructure\bin\Debug\net10.0\IMS.Infrastructure.dll
+C:\Projects\Inventory-Management-System\src\IMS.Infrastructure\bin\Debug\net10.0\IMS.Infrastructure.pdb
+C:\Projects\Inventory-Management-System\src\IMS.Infrastructure\bin\Debug\net10.0\IMS.Application.dll
+C:\Projects\Inventory-Management-System\src\IMS.Infrastructure\bin\Debug\net10.0\IMS.Domain.dll
+C:\Projects\Inventory-Management-System\src\IMS.Infrastructure\bin\Debug\net10.0\IMS.Application.pdb
+C:\Projects\Inventory-Management-System\src\IMS.Infrastructure\bin\Debug\net10.0\IMS.Domain.pdb
+C:\Projects\Inventory-Management-System\src\IMS.Infrastructure\obj\Debug\net10.0\IMS.Infrastructure.csproj.AssemblyReference.cache
+C:\Projects\Inventory-Management-System\src\IMS.Infrastructure\obj\Debug\net10.0\IMS.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Inventory-Management-System\src\IMS.Infrastructure\obj\Debug\net10.0\IMS.Infrastructure.AssemblyInfoInputs.cache
+C:\Projects\Inventory-Management-System\src\IMS.Infrastructure\obj\Debug\net10.0\IMS.Infrastructure.AssemblyInfo.cs
+C:\Projects\Inventory-Management-System\src\IMS.Infrastructure\obj\Debug\net10.0\IMS.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Projects\Inventory-Management-System\src\IMS.Infrastructure\obj\Debug\net10.0\IMS.Infrastructure.sourcelink.json
+C:\Projects\Inventory-Management-System\src\IMS.Infrastructure\obj\Debug\net10.0\IMS.Infr.A6A27735.Up2Date
+C:\Projects\Inventory-Management-System\src\IMS.Infrastructure\obj\Debug\net10.0\IMS.Infrastructure.dll
+C:\Projects\Inventory-Management-System\src\IMS.Infrastructure\obj\Debug\net10.0\refint\IMS.Infrastructure.dll
+C:\Projects\Inventory-Management-System\src\IMS.Infrastructure\obj\Debug\net10.0\IMS.Infrastructure.pdb
+C:\Projects\Inventory-Management-System\src\IMS.Infrastructure\obj\Debug\net10.0\IMS.Infrastructure.genruntimeconfig.cache
+C:\Projects\Inventory-Management-System\src\IMS.Infrastructure\obj\Debug\net10.0\ref\IMS.Infrastructure.dll
+G:\Projects\Inventory-Management-System\src\IMS.Infrastructure\bin\Debug\net10.0\IMS.Infrastructure.deps.json
+G:\Projects\Inventory-Management-System\src\IMS.Infrastructure\bin\Debug\net10.0\IMS.Infrastructure.runtimeconfig.json
+G:\Projects\Inventory-Management-System\src\IMS.Infrastructure\bin\Debug\net10.0\IMS.Infrastructure.dll
+G:\Projects\Inventory-Management-System\src\IMS.Infrastructure\bin\Debug\net10.0\IMS.Infrastructure.pdb
+G:\Projects\Inventory-Management-System\src\IMS.Infrastructure\bin\Debug\net10.0\IMS.Application.dll
+G:\Projects\Inventory-Management-System\src\IMS.Infrastructure\bin\Debug\net10.0\IMS.Domain.dll
+G:\Projects\Inventory-Management-System\src\IMS.Infrastructure\bin\Debug\net10.0\IMS.Application.pdb
+G:\Projects\Inventory-Management-System\src\IMS.Infrastructure\bin\Debug\net10.0\IMS.Domain.pdb
+G:\Projects\Inventory-Management-System\src\IMS.Infrastructure\obj\Debug\net10.0\IMS.Infrastructure.csproj.AssemblyReference.cache
+G:\Projects\Inventory-Management-System\src\IMS.Infrastructure\obj\Debug\net10.0\IMS.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\Inventory-Management-System\src\IMS.Infrastructure\obj\Debug\net10.0\IMS.Infrastructure.AssemblyInfoInputs.cache
+G:\Projects\Inventory-Management-System\src\IMS.Infrastructure\obj\Debug\net10.0\IMS.Infrastructure.AssemblyInfo.cs
+G:\Projects\Inventory-Management-System\src\IMS.Infrastructure\obj\Debug\net10.0\IMS.Infrastructure.csproj.CoreCompileInputs.cache
+G:\Projects\Inventory-Management-System\src\IMS.Infrastructure\obj\Debug\net10.0\IMS.Infrastructure.sourcelink.json
+G:\Projects\Inventory-Management-System\src\IMS.Infrastructure\obj\Debug\net10.0\IMS.Infr.A6A27735.Up2Date
+G:\Projects\Inventory-Management-System\src\IMS.Infrastructure\obj\Debug\net10.0\IMS.Infrastructure.dll
+G:\Projects\Inventory-Management-System\src\IMS.Infrastructure\obj\Debug\net10.0\refint\IMS.Infrastructure.dll
+G:\Projects\Inventory-Management-System\src\IMS.Infrastructure\obj\Debug\net10.0\IMS.Infrastructure.pdb
+G:\Projects\Inventory-Management-System\src\IMS.Infrastructure\obj\Debug\net10.0\IMS.Infrastructure.genruntimeconfig.cache
+G:\Projects\Inventory-Management-System\src\IMS.Infrastructure\obj\Debug\net10.0\ref\IMS.Infrastructure.dll

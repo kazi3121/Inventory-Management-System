@@ -1,0 +1,33 @@
+## Visual Studio / .NET Core
+bin/
+obj/
+out/
+.vs/
+.idea/
+.vscode/
+
+## Build & Test Results
+[Tt]est[Rr]esults/
+*.trx
+*.coverage
+*.coveragexml
+
+## User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## Dependency / Package caches
+*.nuget.props
+*.nuget.targets
+packages/
+
+## Operating System files
+.DS_Store
+Thumbs.db
+
+## Environment / Secrets (Optional - uncomment if you store sensitive keys locally)
+# appsettings.Development.json
+# appsettings.Local.json
